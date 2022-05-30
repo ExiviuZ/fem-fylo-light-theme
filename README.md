@@ -36,9 +36,8 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
 ### Links
-
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [https://github.com/ExiviuZ/fem-fylo-dark-theme]
+- Live Site URL: [https://exiviuz.github.io/fem-fylo-light-theme]
 
 ## My process
 
